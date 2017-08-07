@@ -1,2 +1,9 @@
 # template-sites
-Few simplistic or ultra cool personal sites as inspiration for github.io :P
+
+## dot github dot io
+- https://prlz77.github.io/
+- http://benanne.github.io/
+
+## others
+- http://smithamilli.com/
+- 

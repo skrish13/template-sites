@@ -7,7 +7,6 @@
 - https://shiromarieke.github.io/ (lol)
 - http://chsasank.github.io/
 - https://lenpaul.github.io/
-
 - https://github.com/planetjekyll/awesome-jekyll-themes (lol shouldve searched for this first)
 - https://jekyll.github.io/minima/
 - http://broccolini.net/athena/
